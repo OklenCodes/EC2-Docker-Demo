@@ -1,4 +1,4 @@
-# EC2-Docker-Demo=
+# EC2-Docker-Demo
 
 This is a basic flask app docker container.
 
