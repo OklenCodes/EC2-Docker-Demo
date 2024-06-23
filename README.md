@@ -2,7 +2,7 @@
 
 This is a basic flask app docker container.
 
-When the container is running, it will be attached to port 80 of the machine, go to: http://ip:80 to view the site.
+When the container is running, it will be attached to port 80 of the machine, go to: http://(aws host ip):80 to view the site.
 
 Flask, by default, is running on port 5000 of the container, but the docker-compose binds host port 80 to container port 5000.
 
