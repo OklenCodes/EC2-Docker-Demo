@@ -8,4 +8,4 @@ Flask, by default, is running on port 5000 of the container, but the docker-comp
 
 You can execute this locally but as following the youtube video this will be done through AWS Ec2 Instance connect
 
-Youtube video - 
+Youtube video - https://youtu.be/1VO9xHTvUZM
